@@ -7,4 +7,4 @@
 <p> third：<a href="https://raw.githubusercontent.com/Andy-ZJH/Andy-second-homeword/master/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.pptx
 ">人工智能最新技术PPT</a> <p>
 
-<p> thank you watch</p>
+<p> thanks</p>
